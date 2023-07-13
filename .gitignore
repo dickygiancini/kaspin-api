@@ -1,0 +1,24 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Dependency directories
+vendor/
+
+# Build artifacts
+build/
+bin/
+
+# Generated files
+*.log
+*.json
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
